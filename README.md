@@ -13,6 +13,10 @@
 - Таблица лидеров «Список выживших»
 - Поддержка десктопа и мобильных устройств
 - Интеграция с Яндекс Играми (SDK, реклама, платежи)
+  
+<img width="2560" height="1392" alt="vivaldi_ilUuDI0v9q" src="https://github.com/user-attachments/assets/beefe255-fcfe-4bd7-9369-4fd8c7ac6372" />
+<img width="2560" height="1392" alt="vivaldi_SteB59QjA9" src="https://github.com/user-attachments/assets/2de9b9d7-18f5-4268-a41d-43d34d4e6094" />
+<img width="2560" height="1392" alt="vivaldi_GuxEndtqhj" src="https://github.com/user-attachments/assets/b091f2e3-b6a7-4f23-878c-af03c6c81ad5" />
 
 ## Управление
 
